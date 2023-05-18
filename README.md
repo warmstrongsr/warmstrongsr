@@ -1,8 +1,7 @@
 Hi there 👋
 
+I'm Will.  A new graduate of the Coding Temple software engineering program.
 
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Pantry Plus refactor
 - 🌱 I’m currently learning ...
