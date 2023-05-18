@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Improving Pantry Plus](https://github.com/warmstrongsr/PantryPlus)
 
-- 🌱 I’m currently learning **Django, algorithms,**
+- 🌱 I’m currently learning **Django, data structures and algorithms**
 
-- 👨‍💻 All of my projects are available at [https://github.com/warmstrongsr](https://github.com/warmstrongsr)
+<!-- - 👨‍💻 All of my projects are available at [https://github.com/warmstrongsr](https://github.com/warmstrongsr) -->
 
 - 💬 Ask me about **Flask, Python, SQL**
 
