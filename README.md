@@ -15,7 +15,7 @@
 - 📫 How to reach me **will.ea.armstrong@gmail.com**
 
 - ⚡ Fun fact **I spent 12 years in the U.S. Army as a combat engineer.**
-- 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
