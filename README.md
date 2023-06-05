@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on [Improving Pantry Plus](https://github.com/warmstrongsr/PantryPlus)
 
-- 🌱 I’m currently learning **Flask, Python, data structures and algorithms**
+- 🌱 I’m currently learning **Java, AWS, data structures and algorithms**
 
 <!-- - 👨‍💻 All of my projects are available at [https://github.com/warmstrongsr](https://github.com/warmstrongsr) -->
 
-- 💬 Ask me about **Flask, Python, SQL**
+- 💬 Ask me about **Flask, Python, SQL, Java, AWS**
 
 - 📫 How to reach me **will.ea.armstrong@gmail.com**
 
