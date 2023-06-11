@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java and AWS**
 
-<!-- - 👨‍💻 All of my projects are available at [https://github.com/warmstrongsr](https://github.com/warmstrongsr) -->
+<!-- - 👨‍💻 All of my projects are available @ [https://github.com/warmstrongsr](https://github.com/warmstrongsr) -->
 
 - 💬 Ask me about **Flask, Python, SQL, Java, AWS, React...**
 
