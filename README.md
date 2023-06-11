@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=warmstrongsr&label=Profile%20views&color=0e75b6&style=flat" alt="warmstrongsr" /> </p>
 
 
-- 🔭 I’m currently working on Movie API with Java and Spring Boot backend and React frontend.
+- 🔭 I’m currently working on Movie App with Java and Spring Boot backend and React frontend.
 
 - 🌱 I’m currently learning **Java and AWS**
 
