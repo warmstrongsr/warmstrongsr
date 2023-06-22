@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact: **I spent 12 years in the U.S. Army as a combat engineer.**
 
-- Quote of the year: “Most men lead lives of quiet desperation."  Henry David Thoreau
+- Quote of the year: “The mass of men lead lives of quiet desperation. What is called resignation is confirmed desperation.”  Henry David Thoreau
 
 
 <h3 align="left">Connect with me:</h3>
