@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Movie App with Java and Spring Boot backend and React frontend.
 
-- 🌱 I’m currently learning **DSA, Java, AWS**
+- 🌱 I’m currently learning **DSA, Java, AWS, PHP, Salesforce**
 
 <!-- - 👨‍💻 All of my projects are available @ [https://github.com/warmstrongsr](https://github.com/warmstrongsr) -->
 
